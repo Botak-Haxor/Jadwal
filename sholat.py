@@ -393,11 +393,11 @@ def update():
       print(lg+'Mengupdate..\nLama tidaknya tergantung jaringan, sabarr :)')
       
       os.system('cd .. && rm -rf sholat')     
-      sp.call(['cd .. && git clone https://github.com/Botak-Haxor/Ibadah'],shell=True, stdout=sp.DEVNULL,stderr=sp.STDOUT)
+      sp.call(['cd .. && git clone https://github.com/Botak-Haxor/Jadwal'],shell=True, stdout=sp.DEVNULL,stderr=sp.STDOUT)
       print(lg+'Selesai mengupdate')
       print(lg+'Memulai ulang..')
       sleep(2)
-      os.system('cd ../sholat && python sholat.py')    
+      os.system('cd ../Jadwal && python sholat.py')    
 def tentang():
       banner()
       print(f'''
