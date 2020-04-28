@@ -8,8 +8,8 @@ HARAP BACA DULU UY !!!
 
 
 
-Kodenya open source. bisa kalian pakek buat belajar.
-tapi saya benar-benar nggak rela kalo script ini di tiru tapi tidak menyantumkan sumber scriptnya
+Kodenya open source. bisa kalian pakek buat belajar yekan.
+tapi gw benar-benar gk rela kalo script ini di tiru (Copyright)
 TRIMAKASIH
 '''
 
